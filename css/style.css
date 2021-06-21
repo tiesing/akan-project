@@ -1,0 +1,38 @@
+* {
+  background-color:gray;
+}
+.form-group {
+  margin-left: 405px;
+  margin-top: 200px;
+  align-self: baseline;
+}
+.header {
+  font-family: 'Hammersmith One', sans-serif;
+  color: black;
+  margin: 30px;
+}
+.form-group p {
+  color:black;
+  font-family:'Do Hyeon', sans-serif ;
+}
+.gender-checkboxes {
+  margin-left: 405px;
+  align-self: baseline;
+
+}
+.gender-checkboxes {
+  color:black;
+  font-family:'Do Hyeon', sans-serif ;
+
+}
+.answer {
+  margin-left: 405px;
+  align-self: baseline;
+  color:black;
+  font-family:'Do Hyeon', sans-serif ;
+}
+#myBirthdayDate {
+  color:black;
+  font-family:'Do Hyeon', sans-serif ;
+  border-radius: 5px;
+}
